@@ -11,7 +11,7 @@ llm:
   deployment_name: "deepseek-chat"
   azure_endpoint: "https://YOUR_ENDPOINT.openai.azure.com/"
   api_version: "2024-02-15-preview"
-  api_key: "sk-a584671751554e3fa4958b3c3b4ba86d"
+  api_key: ""
   temperature: 0.0
   max_tokens: 4096
 
